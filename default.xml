@@ -2,6 +2,6 @@
 <manifest>
   
   <!-- GZOSP CAF manifest -->
-  <include name="caf_default.xml" />
+  <include name="gzosp_default.xml" />
 
 </manifest>
